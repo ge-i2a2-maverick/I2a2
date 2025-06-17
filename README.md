@@ -26,7 +26,7 @@ Subindo o projeto:
 
 
 RESPOSATAS PARA O TRABALHO:
-```text
+
 1. A framework escolhida
 - Llamaindex
 
@@ -52,4 +52,3 @@ Para o processamento das perguntas, utilizamos o modelo de linguagem grande (LLM
 
 5. Não se esqueçam de ocultar chaves utilizadas nos softwares.
 - Chave não expostas
-```
